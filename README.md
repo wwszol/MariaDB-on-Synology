@@ -97,4 +97,4 @@ MariaDB [mysql]> select user,host from user;
 +------------+--------------+
 5 rows in set (0.001 sec)
 
-
+finito
